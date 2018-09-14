@@ -1,6 +1,7 @@
 # docker-jenkins
 Jenkins Docker supporting running docker containers from within a container
 
+[![Build Status](https://travis-ci.org/CODESIGN2/docker-jenkins.svg?branch=master)](https://travis-ci.org/CODESIGN2/docker-jenkins)
 
 * lets you run docker containers inside of docker containers (ish)
 * easy to upgrade (although I roll with LTS and build internally so maybe don't pull from dockerhub)
